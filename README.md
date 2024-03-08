@@ -18,20 +18,16 @@ FanPulse brings the thrill of the NFL to your fingertips like never before! Inte
 Description: Leveraging AI algorithms, FanLink AI would pair fans with similar interests.
 Benefits: FanLink AI boosts community ties and platform loyalty by linking fans with shared passions.
 
-2. GamePulse Lighting
-Description: Your home lights sync with the game's pulse, bringing live action right into your living room.
-Benefit: This ignites game days at home, turning every score into a light show for an immersive, share-worthy experience
 
-
-3. EchoGuide
+2. EchoGuide
 Description: Your interactive AI sidekick on NFL+, tailoring your feed, insights, and connections.
 Benefit: This personalizes your NFL+ journey, evolving insights and content for deeper engagement and satisfaction.
 
-4. HuddleSphere
+3. HuddleSphere
 Description: Our AI shapes every discussion, keeping conversations relevant, positive, and tailored to your NFL passions.
 Benefit: It cultivates a dynamic fan community, fostering safe, engaging, and united celebrations that glue fans to NFL+.
 
-5. VictoryView AR
+4. VictoryView AR
 Description: VictoryView AR transforms fan experiences with live overlays, virtual gear, 3D celebrations, and interactive highlights, turning every game into an immersive, shareable spectacle. 
 Benefit: VictoryView AR brings game moments to life, letting fans celebrate in real time with augmented reality excitement.
 
