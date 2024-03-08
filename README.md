@@ -13,12 +13,6 @@ FanPulse brings the thrill of the NFL to your fingertips like never before! Inte
 
 
 
-
-## Installation
-
-1. Clone the repo
-2. Run The code on Xcode
-
 ## Features
 1. FanLink AI
 Description: Leveraging AI algorithms, FanLink AI would pair fans with similar interests.
@@ -46,6 +40,16 @@ Benefit: VictoryView AR brings game moments to life, letting fans celebrate in r
 
 ## Figma Link
 https://www.figma.com/file/ZiTRLrdRSrQLuUPcadMoUm/Untitled?type=design&node-id=8-329&mode=design&t=a6L5XMkHV9OUfnS6-0
+
+
+
+## Website Link
+https://www.figma.com/file/ZiTRLrdRSrQLuUPcadMoUm/Untitled?type=design&node-id=8-329&mode=design&t=a6L5XMkHV9OUfnS6-0](https://nflfanpulse.netlify.app/)
+
+## Installation
+
+1. Clone the repo
+2. Run The code on Xcode
 
 ## Team
 - Otito Udedibor
