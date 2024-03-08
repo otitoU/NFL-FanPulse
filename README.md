@@ -1,5 +1,5 @@
 # NFL FanPulse 🏈
-A mobile application developed by PSU toto elevate subscriber engagement and expand the user base for NFL+ and NFL+ premium.
+A mobile application developed by PSU to elevate subscriber engagement and expand the user base for NFL+ and NFL+ premium.
 
 ## Overview
 FanPulse brings the thrill of the NFL to your fingertips like never before! Integrated directly into NFL+ and NFL+ Premium, it's not just a platform—it's your all-access pass to the heart of the NFL experience. Dive into a world where you're not just watching the game; you're living it. Connect with fans, soak up every play, and get content tailored just for you. FanPulse is here to make every pre-game anticipation, in-game cheer, and post-game celebration more vibrant and personal. It's the future of fan engagement, designed to make every NFL moment unforgettable.
