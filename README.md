@@ -40,7 +40,7 @@ https://www.figma.com/file/ZiTRLrdRSrQLuUPcadMoUm/Untitled?type=design&node-id=8
 
 
 ## Website Link
-https://www.figma.com/file/ZiTRLrdRSrQLuUPcadMoUm/Untitled?type=design&node-id=8-329&mode=design&t=a6L5XMkHV9OUfnS6-0](https://nflfanpulse.netlify.app/)
+https://nflfanpulse.netlify.app/
 
 ## Installation
 
